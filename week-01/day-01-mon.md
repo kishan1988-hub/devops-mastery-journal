@@ -29,3 +29,12 @@ pwd
 ls -lah
 cd /etc
 cd -
+
+## Today's Win
+- Built a solid foundation in linux navigation and log exploration, can confidently move through the file system and inspect logs.
+
+## Reflection 
+- Comfortable with linux commands "ls, cd, pwd, find, grep, tail -f"
+- filtering through log using command "grep" felt natural and i need to build more deeper understanding with options available on this command & try combing with the other commands.
+- Understanding where logs and configurations live (`/etc`, `/var/log`, `/usr/bin`) made troubleshooting feel more structured and predictable.
+- I want more practice with the `find`, `awk`, and `sed` commands, so I will revisit them later in the week for more complex text processing tasks.
