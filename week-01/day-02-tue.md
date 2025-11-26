@@ -1,4 +1,3 @@
-# Day 2 – tue
 # Day 02 – Tuesday – systemd & Service Management
 
 **Date:** 2025-02-18  
