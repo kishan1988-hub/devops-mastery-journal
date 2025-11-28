@@ -104,3 +104,11 @@ while True:
     Cleaning stray characters in the unit file.
 
     Running systemctl daemon-reload + systemctl reset-failed.
+
+## SystemD Unit file locations
+
+* /lib/systemd/system -- standard systemd unit files (distro maintainer)
+* /usr/lib/systemd/system --from locally installed packages
+* /run/system/system -- transient unit files
+* /etc/systemd/system -- this is where you put your custom unit files
+

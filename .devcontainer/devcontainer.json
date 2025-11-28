@@ -1,0 +1,15 @@
+{
+  "name": "DevOps Mastery Journal",
+  "build": { "dockerfile": "Dockerfile" },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.shell.linux": "/bin/zsh"
+  },
+  "extensions": [
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "ms-python.python"
+  ],
+  "postCreateCommand": "python3 -m venv .venv && .venv/bin/pip install --upgrade pip",
+  "remoteUser": "vscode"
+}
