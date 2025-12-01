@@ -23,9 +23,9 @@ To build a practical understanding of Linux networking: interfaces, IP addresses
 
 ---
 
-## 💻 Commands Practised
+## Commands Practised
 
-### 🔹 Interface & IP visibility
+###  Interface & IP visibility
 ```bash
 ip a
 ip -br a
