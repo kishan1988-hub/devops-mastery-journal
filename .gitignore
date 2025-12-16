@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Bash / script artifacts
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Secrets (never commit)
+.env
+*.pem
+*.key
