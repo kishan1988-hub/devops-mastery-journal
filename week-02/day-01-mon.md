@@ -15,6 +15,7 @@ To build a **strong foundational understanding of Git and GitHub** from a DevOps
 
 The emphasis was on **intentional commits, clean diffs, and repository hygiene**.
 
+
 ---
 
 ## ✅ Tasks Completed
